@@ -16,6 +16,8 @@ layout: default
     {{ post.content }}
   </div>
   {% endfor %}
+  {% plugin_type twitter_url twitter %}
+  {% twitter https://twitter.com/sdiedel maxwidth=500 limit=5 %}
 </div>
 
 <div class="pagination">
