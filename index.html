@@ -1,26 +1,6 @@
 ---
 layout: default
 ---
-<div>
-  Follow me on: 
-  {% if site.twitter_username %}
-    <a href="https://twitter.com/{{ site.twitter_username }}">
-      <i class="fa fa-twitter"></i> Twitter | 
-{% endif %}
-      
-{% if site.github_username %}
-    <a href="https://github.com/{{ site.github_username }}">
-      <i class="fa fa-github"></i> GitHub | 
-    </a>
-{% endif %}
-      
-{% if site.linkedin_username %}
-    <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-      <i class="fa fa-linkedin"></i> LinkedIn
-    </a>
-{% endif %}
-</div>
-
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
