@@ -20,5 +20,9 @@ paginate:         5
 # Custom vars
 version:          2.0.0
 
+twitter_username:     sdiedel
+github_username:      sdiedel
+linkedin_username:    stefandiedel
+
 github:
   repo:           https://github.com/poole/lanyon
