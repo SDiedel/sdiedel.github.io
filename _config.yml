@@ -2,8 +2,6 @@
 markdown:         kramdown
 rouge:            true
 
-gems:             ['jekyll-twitter-plugin']
-
 # Permalinks
 permalink:        pretty
 
