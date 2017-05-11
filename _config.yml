@@ -1,19 +1,19 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 pygments:         true
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
+title:            D13d3l.nl
+tagline:          "SDiedel's personal blogging space"
 description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://lanyon.getpoole.com
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'SDiedel'
+  url:            https://twitter.com/sdiedel
 
 paginate:         5
 
