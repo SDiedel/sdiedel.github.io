@@ -8,17 +8,17 @@ permalink:        pretty
 # Setup
 title:            D13d3l.nl
 tagline:          "SDiedel's personal blogging space"
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      ''
 url:              http://lanyon.getpoole.com
 
 author:
   name:           'SDiedel'
   url:            https://twitter.com/sdiedel
 
-paginate:         5
+paginate:         10
 
 # Custom vars
-version:          2.0.0
+version:          1.0.0
 
 twitter_username:     sdiedel
 github_username:      sdiedel
