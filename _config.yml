@@ -9,7 +9,7 @@ permalink:        pretty
 title:            D13d3l.nl
 tagline:          "SDiedel's personal blogging space"
 description:      ''
-url:              http://lanyon.getpoole.com
+url:              https://d13d3l.nl
 
 author:
   name:           'SDiedel'
@@ -25,4 +25,4 @@ github_username:      sdiedel
 linkedin_username:    stefandiedel
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/SDiedel/sdiedel.github.io
