@@ -2,6 +2,7 @@
 ### because why not?
 
 Open your JSON file in VIM. Type the following command:
+
 `$ :%!python -m json.tool`
 
 Enjoy.
